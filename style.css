@@ -55,8 +55,12 @@ li {
 
 .navigation ul li a {
   color: #ffff00;
-  display: block;
   padding: 0 24px;
+}
+
+.navigation ul {
+  display: inline-block;
+  
 }
 
 a:hover {
